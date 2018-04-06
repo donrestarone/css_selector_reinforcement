@@ -1,0 +1,17 @@
+.big_text {
+	color: yellow;
+}
+
+.links a:hover {
+text-decoration: underline;
+color: red;
+}
+
+.hello {
+	font-size: 95px;
+}
+
+.bears {
+	display: inline-block;
+	/*width: 20%;*/
+}
